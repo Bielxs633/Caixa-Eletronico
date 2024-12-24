@@ -17,10 +17,10 @@ Este é um projeto de **Simulador de Caixa Eletrônico**. O simulador permite ao
 ---
 
 ## Funcionalidades
-- **Consulta de saldo**: Mostra o saldo atual da conta.
-- **Realização de depósitos**: Adicione valores ao saldo da conta.
-- **Realização de saques**: Retire valores do saldo.
-- **Interface interativa**: Feedback em tempo real sobre operações realizadas.
+1. **Consulta de saldo**: Mostra o saldo atual da conta.
+2. **Realização de depósitos**: Adicione valores ao saldo da conta.
+3. **Realização de saques**: Retire valores do saldo.
+4. **Interface interativa**: Feedback em tempo real sobre operações realizadas.
 
 ---
 
